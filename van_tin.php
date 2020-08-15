@@ -1,6 +1,6 @@
-<!DOCTYPE HTML>
 <?php ob_start(); session_start();$session=$_SESSION['user'];
 if (empty($_SESSION['user'])) header('location:login.php'); ?>
+<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
