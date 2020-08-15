@@ -1,5 +1,5 @@
+<?php ob_start(); session_start();?>
 <!DOCTYPE HTML>
-<?php ob_start();?>
 <html>
 <head>
 <meta charset="utf-8">
@@ -47,7 +47,7 @@ body {background-color: #fff;position: absolute;}
         </form>
 
 <div class="noti">
-<?php session_start();
+<?php
 if (empty($_SESSION['user'])) header('location:login.php'); 
 include('act.php');
     if(isset($_POST['rut']))
