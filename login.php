@@ -1,5 +1,5 @@
-<!DOCTYPE HTML>
 <?php ob_start(); session_start();?>
+<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
