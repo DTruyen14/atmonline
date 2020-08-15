@@ -1,5 +1,5 @@
-<!DOCTYPE HTML>
 <?php ob_start(); session_start();$session=$_SESSION['user'];?>
+<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
