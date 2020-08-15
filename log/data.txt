@@ -1,0 +1,31 @@
+
+AGRIBANK
+Tài khoản:369918375
+Giao dịch: Rút tiền: -500000
+Vào lúc:2020/08/14 15:44:58
+Số dư cuối:14500000
+AGRIBANK
+Tài khoản:369123452
+Giao dịch: Rút tiền: -1000000
+Vào lúc:2020/08/14 16:07:24
+Số dư cuối:49000000
+AGRIBANK
+Tài khoản:369123452
+Giao dịch: Rút tiền: -200000
+Vào lúc:2020/08/14 16:23:14
+Số dư cuối:48800000
+AGRIBANK
+Tài khoản:369918375
+Giao dịch: Rút tiền: -200000
+Vào lúc:2020/08/15 06:20:44
+Số dư cuối:8000000
+AGRIBANK
+Tài khoản:369918375
+Giao dịch: Rút tiền: -100000
+Vào lúc:2020/08/15 06:22:39
+Số dư cuối:7900000
+AGRIBANK
+Tài khoản:369918375
+Giao dịch: Rút tiền: -900000
+Vào lúc:2020/08/15 06:32:12
+Số dư cuối:7000000
